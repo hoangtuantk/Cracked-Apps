@@ -1,0 +1,10 @@
+Package: vn.tuandb.perfectvideolitepro
+Name: PerfectVideo Pro
+Author: tuandb <contact@tuandb.name.vn>
+Description: Enable Pro Version
+Homepage: https://repo.tuandb.name.vn
+Depends: mobilesubstrate
+Maintainer: tuandb <contact@tuandb.name.vn>
+Architecture: iphoneos-arm
+Section: HackApps
+Version: 1.0
