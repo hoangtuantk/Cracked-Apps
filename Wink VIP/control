@@ -1,10 +1,9 @@
-Package: vn.tuandb.winkvip
+Package: com.tuandb.winkvip
 Name: Wink VIP
 Author: tuandb <contact@tuandb.name.vn>
 Description: Enable VIP Version
-Homepage: https://repo.tuandb.name.vn
 Depends: mobilesubstrate
 Maintainer: tuandb <contact@tuandb.name.vn>
 Architecture: iphoneos-arm
 Section: HackApps
-Version: 1.0
+Version: 1.1
