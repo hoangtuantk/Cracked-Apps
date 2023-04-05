@@ -1,10 +1,13 @@
 Package: vn.tuandb.1998campremium
-Name: 1998 Cam Premium
-Author: tuandb <contact@tuandb.name.vn>
-Description: Enable Premium Version
-Homepage: https://repo.tuandb.name.vn
-Depends: mobilesubstrate
-Maintainer: tuandb <contact@tuandb.name.vn>
-Architecture: iphoneos-arm
-Section: HackApps
+Name: 1998 Cam (Premium)
 Version: 1.0
+Section: HackApps
+Icon: file:///Library/tuandb.IconRepo/HackApps.png
+Description: Enable Premium Version
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.1998campremium
+Homepage: https://repo.tuandb.name.vn
+Architecture: iphoneos-arm
+Author: tuandb <contact@tuandb.name.vn>
+Maintainer: tuandb <contact@tuandb.name.vn>
+Support: tuandb <contact@tuandb.name.vn>
+Depends: mobilesubstrate

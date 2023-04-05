@@ -1,10 +1,10 @@
-Package: vn.tuandb.unzippro
-Name: Unzip (Pro)
+Package: vn.tuandb.pdfpropremium
+Name: PDF Pro (Premium)
 Version: 1.0
 Section: HackApps
 Icon: file:///Library/tuandb.IconRepo/HackApps.png
-Description: Enable Pro Version
-Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.unzippro
+Description: Enable Premium Version
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.pdfpropremium
 Homepage: https://repo.tuandb.name.vn
 Architecture: iphoneos-arm
 Author: tuandb <contact@tuandb.name.vn>

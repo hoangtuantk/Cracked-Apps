@@ -1,9 +1,13 @@
 Package: vn.tuandb.wpsofficevip
-Name: WPS Office VIP
-Author: tuandb <contact@tuandb.name.vn>
-Description: Enable VIP Version
-Depends: mobilesubstrate
-Maintainer: tuandb <contact@tuandb.name.vn>
-Architecture: iphoneos-arm
-Section: HackApps
+Name: WPS Office (VIP)
 Version: 1.1
+Section: HackApps
+Icon: file:///Library/tuandb.IconRepo/HackApps.png
+Description: Enable VIP Version
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.wpsofficevip
+Homepage: https://repo.tuandb.name.vn
+Architecture: iphoneos-arm
+Author: tuandb <contact@tuandb.name.vn>
+Maintainer: tuandb <contact@tuandb.name.vn>
+Support: tuandb <contact@tuandb.name.vn>
+Depends: mobilesubstrate
