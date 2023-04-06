@@ -1,0 +1,13 @@
+Package: vn.tuandb.bearpro
+Name: Bear (Pro)
+Version: 1.0
+Section: HackApps
+Icon: file:///Library/tuandb.IconRepo/HackApps.png
+Description: Enable Pro Version
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.bearpro
+Homepage: https://repo.tuandb.name.vn
+Architecture: iphoneos-arm
+Author: tuandb <contact@tuandb.name.vn>
+Maintainer: tuandb <contact@tuandb.name.vn>
+Support: tuandb <contact@tuandb.name.vn>
+Depends: mobilesubstrate
