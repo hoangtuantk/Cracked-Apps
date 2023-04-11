@@ -1,0 +1,13 @@
+Package: vn.tuandb.365scoresnoads
+Name: 365Scores (NoAds)
+Version: 1.0
+Section: HackApps
+Icon: file:///Library/tuandb.IconRepo/HackApps.png
+Description: Enable NoAds Version
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.365scoresnoads
+Homepage: https://repo.tuandb.name.vn
+Architecture: iphoneos-arm
+Author: tuandb <contact@tuandb.name.vn>
+Maintainer: tuandb <contact@tuandb.name.vn>
+Support: tuandb <contact@tuandb.name.vn>
+Depends: mobilesubstrate
