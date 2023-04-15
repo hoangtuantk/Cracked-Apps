@@ -1,0 +1,13 @@
+Package: vn.tuandb.vneidbypass
+Name: VNeID Bypass
+Version: 1.0
+Section: Tweaks
+Icon: file:///Library/tuandb.IconRepo/HackApps.png
+Description: Hide Jailbroken Device
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.vneidbypass
+Homepage: https://repo.tuandb.name.vn
+Architecture: iphoneos-arm
+Author: tuandb <contact@tuandb.name.vn>
+Maintainer: tuandb <contact@tuandb.name.vn>
+Support: tuandb <contact@tuandb.name.vn>
+Depends: mobilesubstrate
