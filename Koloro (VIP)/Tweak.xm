@@ -6,3 +6,9 @@
 }
 %end
 
+%hook YMVipManager
+- (bool)hasBuyOneTime {
+	return 1;
+}
+%end
+
