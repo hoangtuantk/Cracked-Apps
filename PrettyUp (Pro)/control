@@ -1,0 +1,9 @@
+Package: com.tuandb.prettyuppro
+Name: PrettyUp (Pro)
+Author: tuandb <contact@tuandb.name.vn>
+Description: Enable Pro Version
+Depends: mobilesubstrate
+Maintainer: tuandb <contact@tuandb.name.vn>
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
