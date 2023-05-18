@@ -1,10 +1,10 @@
-Package: vn.tuandb.naturetrailspremium
-Name: NatureTrails (Premium)
+Package: vn.tuandb.trailscapepremium
+Name: Trailscape (Premium)
 Version: 1.0
 Section: HackApps
 Icon: file:///Library/tuandb.IconRepo/HackApps.png
 Description: Enable Premium Version
-Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.naturetrailspremium
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.trailscapepremium
 Homepage: https://repo.tuandb.name.vn
 Architecture: iphoneos-arm
 Author: tuandb <contact@tuandb.name.vn>
