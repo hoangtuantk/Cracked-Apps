@@ -1,10 +1,10 @@
-Package: vn.tuandb.beautyplusvideopro
-Name: BeautyPlus Video (Pro)
+Package: vn.tuandb.vmakeopro
+Name: Vmake (Pro)
 Version: 1.0
 Section: HackApps
 Icon: file:///Library/tuandb.IconRepo/HackApps.png
 Description: Enable Pro Version
-Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.beautyplusvideopro
+Depiction: https://repo.tuandb.name.vn/info.html?id=vn.tuandb.vmakeopro
 Homepage: https://repo.tuandb.name.vn
 Architecture: iphoneos-arm
 Author: tuandb <contact@tuandb.name.vn>
