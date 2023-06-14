@@ -6,3 +6,9 @@
 }
 %end
 
+%hook VCStoreKit
+- (bool)havePurchasedVideoCompressProductId:(id)arg1 {
+	return 1;
+}
+%end
+
