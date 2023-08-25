@@ -5,6 +5,11 @@
 	return 1;
 }
 %end
+%hook VEMGStoreKit
+- (bool)havePurchasedVideoConverterProductId:(id)arg1 {
+	return 1;
+}
+%end
 
 %hook GDTDeviceManager
 - (bool)isJailBroken {
