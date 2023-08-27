@@ -6,3 +6,9 @@
 }
 %end
 
+%hook HuameiUAMGStoreKit
+- (bool)havePurchasedUnarchiverProductId:(id)arg1 {
+	return 1;
+}
+%end
+
